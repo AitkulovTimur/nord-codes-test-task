@@ -11,7 +11,7 @@
 
 Отчёты доступны по ссылкам:
 * [Последний Allure-отчёт](https://aitkulovtimur.github.io/nord-codes-test-task/1/index.html)
-* [Артефакты CI: логи, результаты Allure и отчёты Surefire](https://github.com/AitkulovTimur/nord-codes-test-task/actions/runs/42120058758)
+* [Артефакты CI: логи, результаты Allure и отчёты Surefire](https://github.com/AitkulovTimur/nord-codes-test-task/actions/runs/42121237645)
 
 
 ## Стек
